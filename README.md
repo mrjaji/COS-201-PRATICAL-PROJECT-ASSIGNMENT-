@@ -3,7 +3,7 @@
 
 ## Student Information
 - Name: Abdulmuizz
-- Matric Number: Your matric number
+- Matric Number: 25/17862
 - Programme: Cybersecurity
 - Course: COS 201
 - Week: 2
